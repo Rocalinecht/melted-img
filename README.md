@@ -1,6 +1,6 @@
-## Meldted image
+# Meldted image
 
 Effect fondu d'une div sur img
 
-# Aperçu
+## Aperçu
  Lien [ici](http://melted-img.surge.sh/)
